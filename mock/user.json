@@ -1,6 +1,5 @@
-[
-  {
-    "userName": "why",
-    "passworld": "123456"
-  }
-]
+{
+  "why": "123456",
+  "zhangsan": "111",
+  "lisi": "123"
+}
